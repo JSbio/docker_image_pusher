@@ -1,2 +1,2 @@
-kaixindelele/chatpaper
+chatpaper
 db-gpt
